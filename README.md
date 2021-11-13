@@ -20,10 +20,10 @@ when you click on another question. The previous question will close and open th
 
 ### Screenshot
 
- ![](./Desktop-screenshot.jpg)--> Desktop screenshot
- ![](./desktop-active.jpg)--> Desktop active screenshot
- ![](./mobile-screenshot.jpg)--> mobile screenshot
- ![](./mobile-active.jpg)-->Mobile active screenshot
+ ![](./screenshot/Desktop-screenshot.jpg)--> Desktop screenshot
+ ![](./screenshot/desktop-active.jpg)--> Desktop active screenshot
+ ![](./screenshot/mobile-screenshot.jpg)--> mobile screenshot
+ ![](./screenshot/mobile-active.jpg)-->Mobile active screenshot
 
 ## My process
 
