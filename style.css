@@ -26,6 +26,7 @@ body{
     padding: 10rem 1rem;
     font-family: 'Kumbh Sans', sans-serif;
     color: var(--text-blue);
+    overflow-y: hidden;
 }
 
 h1,
@@ -39,7 +40,7 @@ h3 {
     max-width: 56rem;
     padding: 2.875rem 1.5rem;
     border-radius: 2rem;
-    background-image: url(/images/bg-pattern-mobile.svg);
+    background-image: url(./images/bg-pattern-mobile.svg);
     background-repeat: no-repeat;
     background-position: center 0%;
     background-size: 15rem;
@@ -96,7 +97,7 @@ h3 {
     width: 0.625rem;
     height: 1rem;
     border: none;
-    background-image: url(/images/icon-arrow-down.svg);
+    background-image: url(./images/icon-arrow-down.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
@@ -150,7 +151,7 @@ h3 {
     .card {
         display: flex;
         margin: 0 auto;
-        background-image: url(/images/bg-pattern-desktop.svg);
+        background-image: url(./images/bg-pattern-desktop.svg);
         background-size: 45%;
         background-repeat: no-repeat;
         background-position: -13% center;
